@@ -79,6 +79,86 @@
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
+    },
+    "heimuer": {
+      "name": "黑木耳|点播",
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod"
+    },
+    "hw8": {
+      "name": "华为吧|点播",
+      "api": "https://hw8.live/api.php/provide/vod"
+    },
+    "jinyzy": {
+      "name": "金鹰|点播",
+      "api": "https://jinyingzy.com/api.php/provide/vod"
+    },
+    "okzy": {
+      "name": "OK|点播",
+      "api": "https://okzyw9.com/api.php/provide/vod"
+    },
+    "zpsps": {
+      "name": "宝片|点播",
+      "api": "https://zpsps.com/api.php/provide/vod"
+    },
+    "xiaohr": {
+      "name": "小黄人|点播",
+      "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod"
+    },
+    "niunzy": {
+      "name": "牛牛|点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod"
+    },
+    "yayazy": {
+      "name": "丫丫|点播",
+      "api": "https://cj.yayazy.net/api.php/provide/vod"
+    },
+    "vodimg": {
+      "name": "影图|点播",
+      "api": "https://cj.vodimg.top/api.php/provide/vod"
+    },
+    "uku": {
+      "name": "U酷|点播",
+      "api": "https://api.ukuapi.com/api.php/provide/vod"
+    },
+    "hhzy": {
+      "name": "豪华|点播",
+      "api": "https://hhzyapi.com/api.php/provide/vod"
+    },
+    "suoni": {
+      "name": "索尼|点播",
+      "api": "https://suoniapi.com/api.php/provide/vod"
+    },
+    "hongnzy": {
+      "name": "红牛|点播",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod"
+    },
+    "kczy": {
+      "name": "快车|点播",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+    },
+    "sdzy": {
+      "name": "闪电|点播",
+      "api": "http://sdzyapi.com/api.php/provide/vod"
+    },
+    "huya": {
+      "name": "虎牙|点播",
+      "api": "https://www.huyaapi.com/api.php/provide/vod"
+    },
+    "p2100": {
+      "name": "飘零|点播",
+      "api": "https://p2100.net/api.php/provide/vod"
+    },
+    "subo": {
+      "name": "速博|点播",
+      "api": "https://subocaiji.com/api.php/provide/vod"
+    },
+    "hhzy": {
+      "name": "火狐|点播",
+      "api": "https://hhzyapi.com/api.php/provide/vod"
+    },
+    "xinl": {
+      "name": "新浪|点播",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod"
     }
   }
 }
